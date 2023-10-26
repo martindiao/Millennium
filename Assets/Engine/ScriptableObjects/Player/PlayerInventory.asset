@@ -27,7 +27,16 @@ MonoBehaviour:
       Data: 0|System.Collections.Generic.List`1[[BaseItem, Assembly-CSharp]], mscorlib
     - Name: 
       Entry: 12
-      Data: 2
+      Data: 5
+    - Name: 
+      Entry: 10
+      Data: 0
+    - Name: 
+      Entry: 10
+      Data: 0
+    - Name: 
+      Entry: 10
+      Data: 0
     - Name: 
       Entry: 10
       Data: 0
@@ -41,6 +50,9 @@ MonoBehaviour:
       Entry: 8
       Data: 
   editorValue:
+  - {fileID: 11400000, guid: 95acbb0f2e16db641ba7399c3acff3ed, type: 2}
+  - {fileID: 11400000, guid: 95acbb0f2e16db641ba7399c3acff3ed, type: 2}
+  - {fileID: 11400000, guid: 95acbb0f2e16db641ba7399c3acff3ed, type: 2}
   - {fileID: 11400000, guid: 95acbb0f2e16db641ba7399c3acff3ed, type: 2}
   - {fileID: 11400000, guid: 95acbb0f2e16db641ba7399c3acff3ed, type: 2}
   validateInput: 0
